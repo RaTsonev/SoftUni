@@ -31,8 +31,8 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="preferences.editor" />
   </component>
-  <component name="RunManager" selected="Python.09.Fish Tank">
-    <configuration name="05.Supplies for School" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.08. Lunch Break">
+    <configuration name="04. Toy Shop" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="SoftUni" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -40,11 +40,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Programming Basics/01.FirstStepsInCoding/Exercise" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Programming Basics/02.ConditionalStatements/Exercises" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Programming Basics/01.FirstStepsInCoding/Exercise/05.Supplies for School.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Programming Basics/02.ConditionalStatements/Exercises/04. Toy Shop.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -53,7 +53,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="06.Repaiting" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="05. Godzilla vs. Kong" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="SoftUni" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -61,11 +61,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Programming Basics/01.FirstStepsInCoding/Exercise" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Programming Basics/02.ConditionalStatements/Exercises" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Programming Basics/01.FirstStepsInCoding/Exercise/06.Repaiting.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Programming Basics/02.ConditionalStatements/Exercises/05. Godzilla vs. Kong.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -74,7 +74,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="07.Food Delivery" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="06. World Swimming Record" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="SoftUni" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -82,11 +82,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Programming Basics/01.FirstStepsInCoding/Exercise" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Programming Basics/02.ConditionalStatements/Exercises" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Programming Basics/01.FirstStepsInCoding/Exercise/07.Food Delivery.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Programming Basics/02.ConditionalStatements/Exercises/06. World Swimming Record.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -95,7 +95,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="08.Basketball Equipment" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="07. Shopping" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="SoftUni" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -103,11 +103,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Programming Basics/01.FirstStepsInCoding/Exercise" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Programming Basics/02.ConditionalStatements/Exercises" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Programming Basics/01.FirstStepsInCoding/Exercise/08.Basketball Equipment.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Programming Basics/02.ConditionalStatements/Exercises/07. Shopping.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -116,7 +116,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="09.Fish Tank" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="08. Lunch Break" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="SoftUni" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -124,11 +124,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Programming Basics/01.FirstStepsInCoding/Exercise" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Programming Basics/02.ConditionalStatements/Exercises" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Programming Basics/01.FirstStepsInCoding/Exercise/09.Fish Tank.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Programming Basics/02.ConditionalStatements/Exercises/08. Lunch Break.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -139,11 +139,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.09.Fish Tank" />
-        <item itemvalue="Python.08.Basketball Equipment" />
-        <item itemvalue="Python.07.Food Delivery" />
-        <item itemvalue="Python.06.Repaiting" />
-        <item itemvalue="Python.05.Supplies for School" />
+        <item itemvalue="Python.08. Lunch Break" />
+        <item itemvalue="Python.07. Shopping" />
+        <item itemvalue="Python.06. World Swimming Record" />
+        <item itemvalue="Python.05. Godzilla vs. Kong" />
+        <item itemvalue="Python.04. Toy Shop" />
       </list>
     </recent_temporary>
   </component>
@@ -157,5 +157,31 @@
       <updated>1649670873079</updated>
     </task>
     <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Programming Basics/02.ConditionalStatements/Exercises/05. Godzilla vs. Kong.py</url>
+          <line>4</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Programming Basics/02.ConditionalStatements/Exercises/06. World Swimming Record.py</url>
+          <line>5</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Programming Basics/02.ConditionalStatements/Exercises/07. Shopping.py</url>
+          <line>5</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Programming Basics/02.ConditionalStatements/Exercises/08. Lunch Break.py</url>
+          <line>3</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
