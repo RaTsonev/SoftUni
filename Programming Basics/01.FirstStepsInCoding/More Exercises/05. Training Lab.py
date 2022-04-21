@@ -6,5 +6,5 @@ if 3<=h<=w<=100:
     one_place=0.7*1.20
     width = math.floor((h-1)/0.7)
     height = math.floor(w/1.2)
-    space = width*height - 3
-    print(f"{space}")
+    neshto = width*height - 3
+    print(f"{neshto}")
