@@ -39,8 +39,8 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="preferences.editor" />
   </component>
-  <component name="RunManager" selected="Python.05. Training Lab">
-    <configuration name="01. Trapeziod Area" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.10. Weather Forecast - Part 2">
+    <configuration name="06. Fishland" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="SoftUni" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -52,7 +52,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Programming Basics/01.FirstStepsInCoding/More Exercises/01. Trapeziod Area.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Programming Basics/01.FirstStepsInCoding/More Exercises/06. Fishland.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -61,7 +61,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="02. Triangle Area" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="07. House Painting" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="SoftUni" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -73,7 +73,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Programming Basics/01.FirstStepsInCoding/More Exercises/02. Triangle Area.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Programming Basics/01.FirstStepsInCoding/More Exercises/07. House Painting.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -82,7 +82,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="03. Celsius to Fahrenheit" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="08. Circle Area and Perimeter" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="SoftUni" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -94,7 +94,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Programming Basics/01.FirstStepsInCoding/More Exercises/03. Celsius to Fahrenheit.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Programming Basics/01.FirstStepsInCoding/More Exercises/08. Circle Area and Perimeter.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -103,7 +103,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="04. Vegetable Market" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="09. Weather Forecast" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="SoftUni" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -115,7 +115,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Programming Basics/01.FirstStepsInCoding/More Exercises/04. Vegetable Market.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Programming Basics/01.FirstStepsInCoding/More Exercises/09. Weather Forecast.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -124,7 +124,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="05. Training Lab" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="10. Weather Forecast - Part 2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="SoftUni" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -136,7 +136,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Programming Basics/01.FirstStepsInCoding/More Exercises/05. Training Lab.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Programming Basics/01.FirstStepsInCoding/More Exercises/10. Weather Forecast - Part 2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -147,11 +147,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.05. Training Lab" />
-        <item itemvalue="Python.04. Vegetable Market" />
-        <item itemvalue="Python.03. Celsius to Fahrenheit" />
-        <item itemvalue="Python.02. Triangle Area" />
-        <item itemvalue="Python.01. Trapeziod Area" />
+        <item itemvalue="Python.10. Weather Forecast - Part 2" />
+        <item itemvalue="Python.09. Weather Forecast" />
+        <item itemvalue="Python.08. Circle Area and Perimeter" />
+        <item itemvalue="Python.07. House Painting" />
+        <item itemvalue="Python.06. Fishland" />
       </list>
     </recent_temporary>
   </component>
@@ -183,6 +183,11 @@
           <url>file://$PROJECT_DIR$/Programming Basics/01.FirstStepsInCoding/More Exercises/04. Vegetable Market.py</url>
           <line>5</line>
           <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Programming Basics/01.FirstStepsInCoding/More Exercises/07. House Painting.py</url>
+          <line>4</line>
+          <option name="timeStamp" value="20" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
