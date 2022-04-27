@@ -39,8 +39,8 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="preferences.editor" />
   </component>
-  <component name="RunManager" selected="Python.05. Training Lab">
-    <configuration name="01. Trapeziod Area" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.02. Sleepy Tom Cat">
+    <configuration name="01. Pipes In Pool" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="SoftUni" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -48,11 +48,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Programming Basics/01.FirstStepsInCoding/More Exercises" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Programming Basics/02.ConditionalStatements/More Exercises" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Programming Basics/01.FirstStepsInCoding/More Exercises/01. Trapeziod Area.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Programming Basics/02.ConditionalStatements/More Exercises/01. Pipes In Pool.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -61,7 +61,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="02. Triangle Area" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="02. Sleepy Tom Cat" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="SoftUni" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -69,11 +69,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Programming Basics/01.FirstStepsInCoding/More Exercises" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Programming Basics/02.ConditionalStatements/More Exercises" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Programming Basics/01.FirstStepsInCoding/More Exercises/02. Triangle Area.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Programming Basics/02.ConditionalStatements/More Exercises/02. Sleepy Tom Cat.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -82,7 +82,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="03. Celsius to Fahrenheit" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="03. Harvest" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="SoftUni" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -90,11 +90,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Programming Basics/01.FirstStepsInCoding/More Exercises" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Programming Basics/02.ConditionalStatements/More Exercises" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Programming Basics/01.FirstStepsInCoding/More Exercises/03. Celsius to Fahrenheit.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Programming Basics/02.ConditionalStatements/More Exercises/03. Harvest.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -103,7 +103,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="04. Vegetable Market" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="04. Transport Price" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="SoftUni" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -111,11 +111,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Programming Basics/01.FirstStepsInCoding/More Exercises" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Programming Basics/02.ConditionalStatements/More Exercises" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Programming Basics/01.FirstStepsInCoding/More Exercises/04. Vegetable Market.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Programming Basics/02.ConditionalStatements/More Exercises/04. Transport Price.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -147,11 +147,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.02. Sleepy Tom Cat" />
+        <item itemvalue="Python.04. Transport Price" />
+        <item itemvalue="Python.03. Harvest" />
+        <item itemvalue="Python.01. Pipes In Pool" />
         <item itemvalue="Python.05. Training Lab" />
-        <item itemvalue="Python.04. Vegetable Market" />
-        <item itemvalue="Python.03. Celsius to Fahrenheit" />
-        <item itemvalue="Python.02. Triangle Area" />
-        <item itemvalue="Python.01. Trapeziod Area" />
       </list>
     </recent_temporary>
   </component>
@@ -183,6 +183,11 @@
           <url>file://$PROJECT_DIR$/Programming Basics/01.FirstStepsInCoding/More Exercises/04. Vegetable Market.py</url>
           <line>5</line>
           <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Programming Basics/02.ConditionalStatements/More Exercises/01. Pipes In Pool.py</url>
+          <line>10</line>
+          <option name="timeStamp" value="18" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
