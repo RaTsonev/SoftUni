@@ -6,7 +6,7 @@ play = holiday*127 + working_day*63
 free_time = abs(30000 - play)
 hours = math.floor(free_time // 60)
 minutes = free_time - hours*60
-if play >= 30000 :
+if play >= 30000:
     print("Tom will run away")
     print(f"{hours:} hours and {minutes:} minutes more for play")
 else:
