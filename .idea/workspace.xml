@@ -39,7 +39,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="preferences.editor" />
   </component>
-  <component name="RunManager" selected="Python.08.  OLD2 (1)">
+  <component name="RunManager" selected="Python.08. On Time for the Exam">
     <configuration name="08.  OLD2 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="SoftUni" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -103,7 +103,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="09. Ski Trip" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="08. On Time for the Exam" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="SoftUni" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -115,7 +115,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Programming Basics/03.Conditional Statements Advanced/Exercise/09. Ski Trip.py" />
+      <option name="SCRIPT_NAME" value="D:\SoftUni\Programming Basics\03.Conditional Statements Advanced\Exercise\08. On Time for the Exam.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -147,11 +147,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.08. On Time for the Exam" />
         <item itemvalue="Python.08.  OLD2 (1)" />
         <item itemvalue="Python.1212312" />
         <item itemvalue="Python.08.  OLD2" />
         <item itemvalue="Python.08. OLD" />
-        <item itemvalue="Python.09. Ski Trip" />
       </list>
     </recent_temporary>
   </component>
@@ -211,13 +211,8 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/Programming Basics/03.Conditional Statements Advanced/Exercise/08.  OLD2.py</url>
-          <line>50</line>
-          <option name="timeStamp" value="36" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/Programming Basics/03.Conditional Statements Advanced/Exercise/08.  OLD2.py</url>
-          <line>24</line>
-          <option name="timeStamp" value="37" />
+          <line>9</line>
+          <option name="timeStamp" value="41" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
