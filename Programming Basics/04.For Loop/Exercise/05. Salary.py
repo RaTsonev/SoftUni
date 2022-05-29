@@ -1,4 +1,4 @@
-tabs_count = int(input())
+tabs_count = iinput())
 salary = int(input())
 for i in range(1, tabs_count+1):
     kind_site = input()
