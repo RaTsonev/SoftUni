@@ -1,13 +1,12 @@
-needed_money = int(input())
-owned_money = int(input())
+needed_money = float(input())
+owned_money = float(input())
 
 days_counter = 0
 spending_counter = 0
-while owned_money < needed_money and spending_counter < 5:
+while owned_money < needed_money and spending_counter <= 5:
     command= input()
     money = int(input())
     days_counter += 1
-
     if command == "save":
         owned_money += money
         spending_counter = 0
@@ -16,7 +15,6 @@ while owned_money < needed_money and spending_counter < 5:
         spending_counter += 1
         if owned_money < 0:
             owned_money = 0
-
 if spending_counter == 5:
     print("You can't save the money.")
     print(f"{days_counter}")
