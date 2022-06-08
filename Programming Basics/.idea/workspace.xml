@@ -39,7 +39,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager" selected="Python.07. Min Number">
+  <component name="RunManager" selected="Python.06. Gold Mine">
     <configuration name="02. Exam Preparation" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Programming Basics" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -147,10 +147,10 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.06. Gold Mine" />
         <item itemvalue="Python.07. Min Number" />
         <item itemvalue="Python.06. Max Number" />
         <item itemvalue="Python.02. Exam Preparation" />
-        <item itemvalue="Python.06. Gold Mine" />
         <item itemvalue="Python.05. Christmas Gifts" />
       </list>
     </recent_temporary>
