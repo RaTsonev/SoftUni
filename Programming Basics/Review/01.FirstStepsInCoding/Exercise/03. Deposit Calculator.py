@@ -1,0 +1,5 @@
+sum = float(input())
+period = int(input())
+annual_percentage = float(input())
+final = sum+period*((sum*annual_percentage/100)/12)
+print(final)
