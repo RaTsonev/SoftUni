@@ -37,10 +37,15 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Review/04. For Loop/Lecture" />
   </component>
-  <component name="RunManager" selected="Python.06. Operations Between Numbers">
-    <configuration name="02. Summer Outfit" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\SoftUni\Programming Basics\Review\04. For Loop\Lecture" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.10. Odd Even Sum">
+    <configuration name="06. Vowels Sum" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Programming Basics" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -48,11 +53,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Review/03. Conditional_Statements_Advanced/Exercise" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Review/04. For Loop" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Review/03. Conditional_Statements_Advanced/Exercise/02. Summer Outfit.py" />
+      <option name="SCRIPT_NAME" value="D:\SoftUni\Programming Basics\Review\04. For Loop\Lecture\06. Vowels Sum.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -61,7 +66,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="03. New House" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="07. Sum Numbers" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Programming Basics" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -69,11 +74,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Review/03. Conditional_Statements_Advanced/Exercise" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Review/04. For Loop" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Review/03. Conditional_Statements_Advanced/Exercise/03. New House.py" />
+      <option name="SCRIPT_NAME" value="D:\SoftUni\Programming Basics\Review\04. For Loop\Lecture\07. Sum Numbers.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -82,7 +87,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="04. Fishing Boat" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="08. Number sequence" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Programming Basics" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -90,11 +95,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Review/03. Conditional_Statements_Advanced/Exercise" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Review/04. For Loop" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Review/03. Conditional_Statements_Advanced/Exercise/04. Fishing Boat.py" />
+      <option name="SCRIPT_NAME" value="D:\SoftUni\Programming Basics\Review\04. For Loop\Lecture\08. Number sequence.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -103,7 +108,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="05. Journey" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="09. Left and Right Sum" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Programming Basics" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -111,11 +116,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Review/03. Conditional_Statements_Advanced/Exercise" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Review/04. For Loop" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Review/03. Conditional_Statements_Advanced/Exercise/05. Journey.py" />
+      <option name="SCRIPT_NAME" value="D:\SoftUni\Programming Basics\Review\04. For Loop\Lecture\09. Left and Right Sum.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -124,7 +129,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="06. Operations Between Numbers" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="10. Odd Even Sum" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Programming Basics" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -132,11 +137,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Review/03. Conditional_Statements_Advanced/Exercise" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Review/04. For Loop" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Review/03. Conditional_Statements_Advanced/Exercise/06. Operations Between Numbers.py" />
+      <option name="SCRIPT_NAME" value="D:\SoftUni\Programming Basics\Review\04. For Loop\Lecture\10. Odd Even Sum.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -147,11 +152,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.06. Operations Between Numbers" />
-        <item itemvalue="Python.05. Journey" />
-        <item itemvalue="Python.04. Fishing Boat" />
-        <item itemvalue="Python.03. New House" />
-        <item itemvalue="Python.02. Summer Outfit" />
+        <item itemvalue="Python.10. Odd Even Sum" />
+        <item itemvalue="Python.09. Left and Right Sum" />
+        <item itemvalue="Python.08. Number sequence" />
+        <item itemvalue="Python.07. Sum Numbers" />
+        <item itemvalue="Python.06. Vowels Sum" />
       </list>
     </recent_temporary>
   </component>
@@ -193,6 +198,11 @@
           <url>file://$PROJECT_DIR$/Review/03. Conditional_Statements_Advanced/Exercise/06. Operations Between Numbers.py</url>
           <line>4</line>
           <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Review/04. For Loop/Lecture/07. Sum Numbers.py</url>
+          <line>2</line>
+          <option name="timeStamp" value="7" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
