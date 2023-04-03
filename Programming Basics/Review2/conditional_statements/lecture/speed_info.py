@@ -8,4 +8,4 @@ elif 50 < speed <= 150:
 elif 150 < speed <= 1000:
     print("ultra fast")
 elif speed > 1000:
-    print("extremely fast") 
+    print("extremely fast")
