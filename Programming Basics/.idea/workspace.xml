@@ -45,8 +45,8 @@
       <recent name="D:\SoftUni\Programming Basics\Review\04. For Loop\Lecture" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.fuel_tank_part_2">
-    <configuration name="flower_shop" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.trade_commissions">
+    <configuration name="cinema_ticket" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Programming Basics" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -54,11 +54,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Review2/conditional_statements/more_exercise" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Review2/conditional_statement_advanced" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Review2/conditional_statements/more_exercise/flower_shop.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Review2/conditional_statement_advanced/cinema_ticket.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -67,7 +67,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="fuel_tank" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="fruit_or_vegetable" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Programming Basics" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -75,11 +75,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Review2/conditional_statements/more_exercise" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Review2/conditional_statement_advanced" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Review2/conditional_statements/more_exercise/fuel_tank.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Review2/conditional_statement_advanced/fruit_or_vegetable.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -88,7 +88,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="fuel_tank_part_2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="fruit_shop" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Programming Basics" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -96,11 +96,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Review2/conditional_statements/more_exercise" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Review2/conditional_statement_advanced" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Review2/conditional_statements/more_exercise/fuel_tank_part_2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Review2/conditional_statement_advanced/fruit_shop.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -109,7 +109,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="pets" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="invalid_number" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Programming Basics" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -117,11 +117,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Review2/conditional_statements/more_exercise" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Review2/conditional_statement_advanced" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Review2/conditional_statements/more_exercise/pets.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Review2/conditional_statement_advanced/invalid_number.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -130,7 +130,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="transport_price" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="trade_commissions" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Programming Basics" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -138,11 +138,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Review2/conditional_statements/more_exercise" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Review2/conditional_statement_advanced" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Review2/conditional_statements/more_exercise/transport_price.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Review2/conditional_statement_advanced/trade_commissions.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -153,11 +153,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.fuel_tank_part_2" />
-        <item itemvalue="Python.fuel_tank" />
-        <item itemvalue="Python.flower_shop" />
-        <item itemvalue="Python.pets" />
-        <item itemvalue="Python.transport_price" />
+        <item itemvalue="Python.trade_commissions" />
+        <item itemvalue="Python.fruit_shop" />
+        <item itemvalue="Python.invalid_number" />
+        <item itemvalue="Python.fruit_or_vegetable" />
+        <item itemvalue="Python.cinema_ticket" />
       </list>
     </recent_temporary>
   </component>
