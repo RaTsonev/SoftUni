@@ -4,20 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9bea8a9c-da00-4fbc-89e5-9d124a587090" name="Changes" comment="p">
-      <change afterPath="$PROJECT_DIR$/Review2/conditional_statement_advanced/Exercise/cinema.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Review2/conditional_statement_advanced/Exercise/fishing_boat.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Review2/conditional_statement_advanced/Exercise/hotel_room.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Review2/conditional_statement_advanced/Exercise/journey.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Review2/conditional_statement_advanced/Exercise/new_house.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Review2/conditional_statement_advanced/Exercise/on_time_for_the_exam.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Review2/conditional_statement_advanced/Exercise/operations_between_numbers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Review2/conditional_statement_advanced/Exercise/ski_trip.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Review2/conditional_statement_advanced/Exercise/summer_outfit.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Programming Basics.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Programming Basics.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="9bea8a9c-da00-4fbc-89e5-9d124a587090" name="Changes" comment="Exercise5" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -233,6 +220,14 @@
       <option name="presentableId" value="Default" />
       <updated>1653825421952</updated>
     </task>
+    <task id="LOCAL-00001" summary="Exercise5">
+      <created>1681155109966</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1681155109966</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -245,6 +240,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Exercise5" />
+    <option name="LAST_COMMIT_MESSAGE" value="Exercise5" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
