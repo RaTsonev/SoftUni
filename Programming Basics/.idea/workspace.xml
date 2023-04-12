@@ -5,9 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9bea8a9c-da00-4fbc-89e5-9d124a587090" name="Changes" comment="Exercise6">
-      <change afterPath="$PROJECT_DIR$/Review2/conditional_statement_advanced/more_exercise/multiply_by_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Review2/conditional_statement_advanced/more_exercise/numbers_from_1_to_10.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Review2/conditional_statement_advanced/more_exercise/point_on_rectangle_border.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Review2/for_loop/lecture/character_sequence.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Review2/for_loop/lecture/even_powers_of_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Review2/for_loop/lecture/left_and_right_sum.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Review2/for_loop/lecture/number_sequence.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Review2/for_loop/lecture/numbers_1_to_n_with_step_3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Review2/for_loop/lecture/numbers_from_1_to_100.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Review2/for_loop/lecture/numbers_from_n_to_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Review2/for_loop/lecture/odd_even_sum.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Review2/for_loop/lecture/sum_numbers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Review2/for_loop/lecture/vowels_sum.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -70,7 +77,7 @@
       <recent name="D:\SoftUni\Programming Basics\Review\04. For Loop\Lecture" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.multiply_by_2">
+  <component name="RunManager" selected="Python.odd_even_sum">
     <configuration name="Unnamed" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="Programming Basics" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -93,7 +100,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="multiply_by_2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="left_and_right_sum" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Programming Basics" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -101,11 +108,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Review2/conditional_statement_advanced/more_exercise" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Review2/for_loop/lecture" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Review2/conditional_statement_advanced/more_exercise/multiply_by_2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Review2/for_loop/lecture/left_and_right_sum.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -114,7 +121,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="numbers_from_1_to_10" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="number_sequence" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Programming Basics" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -122,11 +129,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Review2/conditional_statement_advanced/more_exercise" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Review2/for_loop/lecture" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Review2/conditional_statement_advanced/more_exercise/numbers_from_1_to_10.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Review2/for_loop/lecture/number_sequence.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -135,7 +142,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="point_on_rectangle_border" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="odd_even_sum" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Programming Basics" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -143,11 +150,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Review2/conditional_statement_advanced/more_exercise" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Review2/for_loop/lecture" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Review2/conditional_statement_advanced/more_exercise/point_on_rectangle_border.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Review2/for_loop/lecture/odd_even_sum.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -156,7 +163,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="school_camp" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="sum_numbers" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Programming Basics" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -164,11 +171,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Review2/conditional_statement_advanced/more_exercise" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Review2/for_loop/lecture" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Review2/conditional_statement_advanced/more_exercise/school_camp.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Review2/for_loop/lecture/sum_numbers.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -177,7 +184,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="truck_driver" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="vowels_sum" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Programming Basics" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -185,11 +192,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Review2/conditional_statement_advanced/more_exercise" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Review2/for_loop/lecture" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Review2/conditional_statement_advanced/more_exercise/truck_driver.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Review2/for_loop/lecture/vowels_sum.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -200,19 +207,19 @@
     </configuration>
     <list>
       <item itemvalue="Python.Unnamed" />
-      <item itemvalue="Python.multiply_by_2" />
-      <item itemvalue="Python.numbers_from_1_to_10" />
-      <item itemvalue="Python.point_on_rectangle_border" />
-      <item itemvalue="Python.school_camp" />
-      <item itemvalue="Python.truck_driver" />
+      <item itemvalue="Python.left_and_right_sum" />
+      <item itemvalue="Python.odd_even_sum" />
+      <item itemvalue="Python.number_sequence" />
+      <item itemvalue="Python.sum_numbers" />
+      <item itemvalue="Python.vowels_sum" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.multiply_by_2" />
-        <item itemvalue="Python.numbers_from_1_to_10" />
-        <item itemvalue="Python.point_on_rectangle_border" />
-        <item itemvalue="Python.school_camp" />
-        <item itemvalue="Python.truck_driver" />
+        <item itemvalue="Python.odd_even_sum" />
+        <item itemvalue="Python.left_and_right_sum" />
+        <item itemvalue="Python.number_sequence" />
+        <item itemvalue="Python.sum_numbers" />
+        <item itemvalue="Python.vowels_sum" />
       </list>
     </recent_temporary>
   </component>
@@ -246,7 +253,14 @@
       <option name="project" value="LOCAL" />
       <updated>1681245364959</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Exercise6">
+      <created>1681289671795</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1681289671795</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -402,6 +416,10 @@
           <url>file://$PROJECT_DIR$/Review2/conditional_statement_advanced/more_exercise/school_camp.py</url>
           <line>6</line>
           <option name="timeStamp" value="39" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Review2/for_loop/lecture/even_powers_of_2.py</url>
+          <option name="timeStamp" value="40" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
