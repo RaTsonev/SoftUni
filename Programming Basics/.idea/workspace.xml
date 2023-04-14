@@ -4,15 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9bea8a9c-da00-4fbc-89e5-9d124a587090" name="Changes" comment="Exercise7">
-      <change afterPath="$PROJECT_DIR$/Review2/for_loop/exercise/clever_lily.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Review2/for_loop/exercise/half_sum_element.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Review2/for_loop/exercise/histogram.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Review2/for_loop/exercise/numbers_ending_in_7.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Review2/for_loop/exercise/oscars.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Review2/for_loop/exercise/salary.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Review2/for_loop/exercise/tennis_ranklist.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Review2/for_loop/exercise/trekking_mania.py" afterDir="false" />
+    <list default="true" id="9bea8a9c-da00-4fbc-89e5-9d124a587090" name="Changes" comment="Exercise8">
+      <change afterPath="$PROJECT_DIR$/Review2/for_loop/more_exercise/back_to_the_past.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Review2/for_loop/more_exercise/hospital.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Review2/for_loop/more_exercise/logistics.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -75,7 +70,7 @@
       <recent name="D:\SoftUni\Programming Basics\Review\04. For Loop\Lecture" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.tennis_ranklist">
+  <component name="RunManager" selected="Python.logistics">
     <configuration name="Unnamed" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="Programming Basics" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -98,7 +93,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="clever_lily" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="back_to_the_past" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Programming Basics" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -106,11 +101,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Review2/for_loop/exercise" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Review2/for_loop/more_exercise" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Review2/for_loop/exercise/clever_lily.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Review2/for_loop/more_exercise/back_to_the_past.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -119,7 +114,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="oscars" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="hospital" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Programming Basics" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -127,11 +122,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Review2/for_loop/exercise" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Review2/for_loop/more_exercise" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Review2/for_loop/exercise/oscars.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Review2/for_loop/more_exercise/hospital.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -140,7 +135,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="salary" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="logistics" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Programming Basics" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -148,11 +143,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Review2/for_loop/exercise" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Review2/for_loop/more_exercise" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Review2/for_loop/exercise/salary.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Review2/for_loop/more_exercise/logistics.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -205,19 +200,19 @@
     </configuration>
     <list>
       <item itemvalue="Python.Unnamed" />
-      <item itemvalue="Python.oscars" />
-      <item itemvalue="Python.salary" />
+      <item itemvalue="Python.back_to_the_past" />
+      <item itemvalue="Python.hospital" />
+      <item itemvalue="Python.logistics" />
       <item itemvalue="Python.tennis_ranklist" />
       <item itemvalue="Python.trekking_mania" />
-      <item itemvalue="Python.clever_lily" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.logistics" />
+        <item itemvalue="Python.hospital" />
+        <item itemvalue="Python.back_to_the_past" />
         <item itemvalue="Python.tennis_ranklist" />
         <item itemvalue="Python.trekking_mania" />
-        <item itemvalue="Python.oscars" />
-        <item itemvalue="Python.salary" />
-        <item itemvalue="Python.clever_lily" />
       </list>
     </recent_temporary>
   </component>
@@ -265,7 +260,14 @@
       <option name="project" value="LOCAL" />
       <updated>1681309708936</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Exercise8">
+      <created>1681334556027</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1681334556027</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -284,7 +286,8 @@
     <MESSAGE value="Renamed Exercise5" />
     <MESSAGE value="Exercise6" />
     <MESSAGE value="Exercise7" />
-    <option name="LAST_COMMIT_MESSAGE" value="Exercise7" />
+    <MESSAGE value="Exercise8" />
+    <option name="LAST_COMMIT_MESSAGE" value="Exercise8" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -436,6 +439,16 @@
           <url>file://$PROJECT_DIR$/Review2/for_loop/exercise/clever_lily.py</url>
           <line>4</line>
           <option name="timeStamp" value="42" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Review2/for_loop/more_exercise/back_to_the_past.py</url>
+          <line>3</line>
+          <option name="timeStamp" value="43" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Review2/for_loop/more_exercise/hospital.py</url>
+          <line>4</line>
+          <option name="timeStamp" value="44" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
