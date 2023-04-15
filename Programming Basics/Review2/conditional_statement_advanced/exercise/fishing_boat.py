@@ -1,4 +1,4 @@
-budged = int(input())
+budget = int(input())
 season = input()
 fishers = int(input())
 cost = 0
@@ -20,7 +20,7 @@ if fishers > 12:
 
 if fishers % 2 == 0 and season != "Autumn":
     cost -= cost*0.05
-if budged >= cost:
-    print(f"Yes! You have {budged-cost:.2f} leva left.")
+if budget >= cost:
+    print(f"Yes! You have {budget - cost:.2f} leva left.")
 else:
-    print(f"Not enough money! You need {abs(cost-budged):.2f} leva.")
+    print(f"Not enough money! You need {abs(cost - budget):.2f} leva.")

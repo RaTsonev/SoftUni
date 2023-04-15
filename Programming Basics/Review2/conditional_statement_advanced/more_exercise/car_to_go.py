@@ -1,28 +1,28 @@
-budged = float(input())
+budget = float(input())
 season = input()
 type = ""
 cabrio = 0
 jeep = 0
-if season == "Summer" and budged <= 500:
-    if budged <= 100:
+if season == "Summer" and budget <= 500:
+    if budget <= 100:
         type = "Economy class"
-        cabrio = budged*0.35
-    elif 100< budged <= 500:
+        cabrio = budget * 0.35
+    elif 100< budget <= 500:
         type = "Compact class"
-        cabrio = budged*0.45
+        cabrio = budget * 0.45
     print(f"{type}")
     print(f"Cabrio - {cabrio:.2f}")
-elif season == "Winter" and budged <= 500:
-    if budged <= 100:
+elif season == "Winter" and budget <= 500:
+    if budget <= 100:
         type = "Economy class"
-        jeep = budged * 0.65
-    elif 100< budged <= 500:
+        jeep = budget * 0.65
+    elif 100< budget <= 500:
         type = "Compact class"
-        jeep = budged * 0.8
+        jeep = budget * 0.8
     print(f"{type}")
     print(f"Jeep - {jeep:.2f}")
-if budged > 500:
+if budget > 500:
     type = "Luxury class"
-    jeep = budged * 0.9
+    jeep = budget * 0.9
     print(f"{type}")
     print(f"Jeep - {jeep:.2f}")

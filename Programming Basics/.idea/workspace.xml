@@ -4,11 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9bea8a9c-da00-4fbc-89e5-9d124a587090" name="Changes" comment="Exercise8">
-      <change afterPath="$PROJECT_DIR$/Review2/for_loop/more_exercise/back_to_the_past.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Review2/for_loop/more_exercise/hospital.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Review2/for_loop/more_exercise/logistics.py" afterDir="false" />
+    <list default="true" id="9bea8a9c-da00-4fbc-89e5-9d124a587090" name="Changes" comment="Exercise9 (3 out of 11)">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Review2/conditional_statement_advanced/exercise/fishing_boat.py" beforeDir="false" afterPath="$PROJECT_DIR$/Review2/conditional_statement_advanced/exercise/fishing_boat.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Review2/conditional_statement_advanced/exercise/journey.py" beforeDir="false" afterPath="$PROJECT_DIR$/Review2/conditional_statement_advanced/exercise/journey.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Review2/conditional_statement_advanced/exercise/new_house.py" beforeDir="false" afterPath="$PROJECT_DIR$/Review2/conditional_statement_advanced/exercise/new_house.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Review2/conditional_statement_advanced/more_exercise/car_to_go.py" beforeDir="false" afterPath="$PROJECT_DIR$/Review2/conditional_statement_advanced/more_exercise/car_to_go.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Review2/conditional_statement_advanced/more_exercise/match_tickets.py" beforeDir="false" afterPath="$PROJECT_DIR$/Review2/conditional_statement_advanced/more_exercise/match_tickets.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Review2/conditional_statement_advanced/more_exercise/vacation.py" beforeDir="false" afterPath="$PROJECT_DIR$/Review2/conditional_statement_advanced/more_exercise/vacation.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Review2/conditional_statements/exercise/godzilla_vs_kong.py" beforeDir="false" afterPath="$PROJECT_DIR$/Review2/conditional_statements/exercise/godzilla_vs_kong.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Review2/conditional_statements/exercise/shopping.py" beforeDir="false" afterPath="$PROJECT_DIR$/Review2/conditional_statements/exercise/shopping.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -267,7 +272,14 @@
       <option name="project" value="LOCAL" />
       <updated>1681334556027</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Exercise9 (3 out of 11)">
+      <created>1681501448405</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1681501448405</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -287,7 +299,8 @@
     <MESSAGE value="Exercise6" />
     <MESSAGE value="Exercise7" />
     <MESSAGE value="Exercise8" />
-    <option name="LAST_COMMIT_MESSAGE" value="Exercise8" />
+    <MESSAGE value="Exercise9 (3 out of 11)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Exercise9 (3 out of 11)" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
