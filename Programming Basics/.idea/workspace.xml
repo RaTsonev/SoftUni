@@ -4,16 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9bea8a9c-da00-4fbc-89e5-9d124a587090" name="Changes" comment="Exercise9 (3 out of 11)">
+    <list default="true" id="9bea8a9c-da00-4fbc-89e5-9d124a587090" name="Changes" comment="Changes">
+      <change afterPath="$PROJECT_DIR$/Review2/for_loop/more_exercise/bills.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Review2/for_loop/more_exercise/clock.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Review2/for_loop/more_exercise/clock_part_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Review2/for_loop/more_exercise/equal_pairs.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Review2/for_loop/more_exercise/football_league.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Review2/for_loop/more_exercise/game_of_intervals.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Review2/for_loop/more_exercise/grades.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Review2/for_loop/more_exercise/odd_even_position.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Review2/conditional_statement_advanced/exercise/fishing_boat.py" beforeDir="false" afterPath="$PROJECT_DIR$/Review2/conditional_statement_advanced/exercise/fishing_boat.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Review2/conditional_statement_advanced/exercise/journey.py" beforeDir="false" afterPath="$PROJECT_DIR$/Review2/conditional_statement_advanced/exercise/journey.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Review2/conditional_statement_advanced/exercise/new_house.py" beforeDir="false" afterPath="$PROJECT_DIR$/Review2/conditional_statement_advanced/exercise/new_house.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Review2/conditional_statement_advanced/more_exercise/car_to_go.py" beforeDir="false" afterPath="$PROJECT_DIR$/Review2/conditional_statement_advanced/more_exercise/car_to_go.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Review2/conditional_statement_advanced/more_exercise/match_tickets.py" beforeDir="false" afterPath="$PROJECT_DIR$/Review2/conditional_statement_advanced/more_exercise/match_tickets.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Review2/conditional_statement_advanced/more_exercise/vacation.py" beforeDir="false" afterPath="$PROJECT_DIR$/Review2/conditional_statement_advanced/more_exercise/vacation.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Review2/conditional_statements/exercise/godzilla_vs_kong.py" beforeDir="false" afterPath="$PROJECT_DIR$/Review2/conditional_statements/exercise/godzilla_vs_kong.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Review2/conditional_statements/exercise/shopping.py" beforeDir="false" afterPath="$PROJECT_DIR$/Review2/conditional_statements/exercise/shopping.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,7 +75,7 @@
       <recent name="D:\SoftUni\Programming Basics\Review\04. For Loop\Lecture" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.logistics">
+  <component name="RunManager" selected="Python.odd_even_position">
     <configuration name="Unnamed" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="Programming Basics" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -98,7 +98,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="back_to_the_past" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="clock" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Programming Basics" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -110,7 +110,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Review2/for_loop/more_exercise/back_to_the_past.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Review2/for_loop/more_exercise/clock.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -119,7 +119,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="hospital" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="clock_part_2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Programming Basics" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -131,7 +131,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Review2/for_loop/more_exercise/hospital.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Review2/for_loop/more_exercise/clock_part_2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -140,7 +140,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="logistics" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="equal_pairs" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Programming Basics" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -152,7 +152,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Review2/for_loop/more_exercise/logistics.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Review2/for_loop/more_exercise/equal_pairs.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -161,7 +161,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="tennis_ranklist" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="football_league" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Programming Basics" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -169,11 +169,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Review2/for_loop/exercise" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Review2/for_loop/more_exercise" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Review2/for_loop/exercise/tennis_ranklist.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Review2/for_loop/more_exercise/football_league.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -182,7 +182,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="trekking_mania" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="odd_even_position" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Programming Basics" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -190,11 +190,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Review2/for_loop/exercise" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Review2/for_loop/more_exercise" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Review2/for_loop/exercise/trekking_mania.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Review2/for_loop/more_exercise/odd_even_position.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -205,19 +205,19 @@
     </configuration>
     <list>
       <item itemvalue="Python.Unnamed" />
-      <item itemvalue="Python.back_to_the_past" />
-      <item itemvalue="Python.hospital" />
-      <item itemvalue="Python.logistics" />
-      <item itemvalue="Python.tennis_ranklist" />
-      <item itemvalue="Python.trekking_mania" />
+      <item itemvalue="Python.clock" />
+      <item itemvalue="Python.clock_part_2" />
+      <item itemvalue="Python.equal_pairs" />
+      <item itemvalue="Python.football_league" />
+      <item itemvalue="Python.odd_even_position" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.logistics" />
-        <item itemvalue="Python.hospital" />
-        <item itemvalue="Python.back_to_the_past" />
-        <item itemvalue="Python.tennis_ranklist" />
-        <item itemvalue="Python.trekking_mania" />
+        <item itemvalue="Python.odd_even_position" />
+        <item itemvalue="Python.clock_part_2" />
+        <item itemvalue="Python.clock" />
+        <item itemvalue="Python.equal_pairs" />
+        <item itemvalue="Python.football_league" />
       </list>
     </recent_temporary>
   </component>
@@ -279,7 +279,14 @@
       <option name="project" value="LOCAL" />
       <updated>1681501448405</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Changes">
+      <created>1681556112599</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1681556112599</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -300,7 +307,8 @@
     <MESSAGE value="Exercise7" />
     <MESSAGE value="Exercise8" />
     <MESSAGE value="Exercise9 (3 out of 11)" />
-    <option name="LAST_COMMIT_MESSAGE" value="Exercise9 (3 out of 11)" />
+    <MESSAGE value="Changes" />
+    <option name="LAST_COMMIT_MESSAGE" value="Changes" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -462,6 +470,21 @@
           <url>file://$PROJECT_DIR$/Review2/for_loop/more_exercise/hospital.py</url>
           <line>4</line>
           <option name="timeStamp" value="44" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Review2/for_loop/more_exercise/grades.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="45" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Review2/for_loop/more_exercise/game_of_intervals.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="47" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Review2/for_loop/more_exercise/bills.py</url>
+          <line>3</line>
+          <option name="timeStamp" value="48" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
