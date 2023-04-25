@@ -4,15 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9bea8a9c-da00-4fbc-89e5-9d124a587090" name="Changes" comment="Exercise9-Continue (4 to 11)">
-      <change afterPath="$PROJECT_DIR$/Review2/while_loop/lecture/account_balance.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Review2/while_loop/lecture/graduation.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Review2/while_loop/lecture/max_number.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Review2/while_loop/lecture/min_number.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Review2/while_loop/lecture/password.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Review2/while_loop/lecture/read_text.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Review2/while_loop/lecture/sequence _2k_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Review2/while_loop/lecture/sum_numbers.py" afterDir="false" />
+    <list default="true" id="9bea8a9c-da00-4fbc-89e5-9d124a587090" name="Changes" comment="Exercise10-Continue(last one)">
+      <change afterPath="$PROJECT_DIR$/Review2/while_loop/exercise/cake.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Review2/while_loop/exercise/coins.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Review2/while_loop/exercise/exam_preparation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Review2/while_loop/exercise/moving.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Review2/while_loop/exercise/old_books.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Review2/while_loop/exercise/vacation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Review2/while_loop/exercise/walking.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -75,7 +74,7 @@
       <recent name="D:\SoftUni\Programming Basics\Review\04. For Loop\Lecture" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.graduation">
+  <component name="RunManager" selected="Python.moving">
     <configuration name="Unnamed" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="Programming Basics" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -98,7 +97,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="account_balance" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="cake" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Programming Basics" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -106,11 +105,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Review2/while_loop/lecture" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Review2/while_loop/exercise" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Review2/while_loop/lecture/account_balance.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Review2/while_loop/exercise/cake.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -119,7 +118,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="graduation" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="coins" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Programming Basics" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -127,11 +126,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Review2/while_loop/lecture" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Review2/while_loop/exercise" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Review2/while_loop/lecture/graduation.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Review2/while_loop/exercise/coins.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -140,7 +139,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="max_number" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="moving" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Programming Basics" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -148,11 +147,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Review2/while_loop/lecture" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Review2/while_loop/exercise" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Review2/while_loop/lecture/max_number.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Review2/while_loop/exercise/moving.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -161,7 +160,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="min_number" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="vacation" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Programming Basics" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -169,11 +168,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Review2/while_loop/lecture" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Review2/while_loop/exercise" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Review2/while_loop/lecture/min_number.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Review2/while_loop/exercise/vacation.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -182,7 +181,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="sequence _2k_1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="walking" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Programming Basics" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -190,11 +189,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Review2/while_loop/lecture" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Review2/while_loop/exercise" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Review2/while_loop/lecture/sequence _2k_1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Review2/while_loop/exercise/walking.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -205,19 +204,19 @@
     </configuration>
     <list>
       <item itemvalue="Python.Unnamed" />
-      <item itemvalue="Python.account_balance" />
-      <item itemvalue="Python.graduation" />
-      <item itemvalue="Python.max_number" />
-      <item itemvalue="Python.min_number" />
-      <item itemvalue="Python.sequence _2k_1" />
+      <item itemvalue="Python.cake" />
+      <item itemvalue="Python.coins" />
+      <item itemvalue="Python.moving" />
+      <item itemvalue="Python.vacation" />
+      <item itemvalue="Python.walking" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.graduation" />
-        <item itemvalue="Python.min_number" />
-        <item itemvalue="Python.max_number" />
-        <item itemvalue="Python.account_balance" />
-        <item itemvalue="Python.sequence _2k_1" />
+        <item itemvalue="Python.moving" />
+        <item itemvalue="Python.cake" />
+        <item itemvalue="Python.coins" />
+        <item itemvalue="Python.walking" />
+        <item itemvalue="Python.vacation" />
       </list>
     </recent_temporary>
   </component>
@@ -293,7 +292,21 @@
       <option name="project" value="LOCAL" />
       <updated>1681848446760</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Exercise10">
+      <created>1682011256814</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1682011256814</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Exercise10-Continue(last one)">
+      <created>1682363064394</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1682363064394</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -316,7 +329,9 @@
     <MESSAGE value="Exercise9 (3 out of 11)" />
     <MESSAGE value="Changes" />
     <MESSAGE value="Exercise9-Continue (4 to 11)" />
-    <option name="LAST_COMMIT_MESSAGE" value="Exercise9-Continue (4 to 11)" />
+    <MESSAGE value="Exercise10" />
+    <MESSAGE value="Exercise10-Continue(last one)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Exercise10-Continue(last one)" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -498,6 +513,11 @@
           <url>file://$PROJECT_DIR$/Review2/while_loop/lecture/account_balance.py</url>
           <line>2</line>
           <option name="timeStamp" value="50" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Review2/while_loop/exercise/exam_preparation.py</url>
+          <line>6</line>
+          <option name="timeStamp" value="51" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
