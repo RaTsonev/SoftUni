@@ -4,9 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9bea8a9c-da00-4fbc-89e5-9d124a587090" name="Changes" comment="Exercise11">
-      <change afterPath="$PROJECT_DIR$/Review2/while_loop/more_exercise/dishwasher.py" afterDir="false" />
+    <list default="true" id="9bea8a9c-da00-4fbc-89e5-9d124a587090" name="Changes" comment="Exercise12(1 out of 5)">
+      <change afterPath="$PROJECT_DIR$/Review2/while_loop/more_exercise/average_number.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Review2/while_loop/more_exercise/numbers_divided_by_3_without_reminder.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Review2/while_loop/more_exercise/report_system.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Review2/while_loop/more_exercise/stream_of_letters.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -69,7 +71,28 @@
       <recent name="D:\SoftUni\Programming Basics\Review\04. For Loop\Lecture" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.report_system">
+  <component name="RunManager" selected="Python.average_number">
+    <configuration name="дасда" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Programming Basics" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Review2/while_loop/more_exercise" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Review2/while_loop/more_exercise/дасда.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="Unnamed" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="Programming Basics" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -92,49 +115,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="cake" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Programming Basics" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Review2/while_loop/exercise" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Review2/while_loop/exercise/cake.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="coins" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Programming Basics" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Review2/while_loop/exercise" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Review2/while_loop/exercise/coins.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="dishwasher" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="average_number" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Programming Basics" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -146,7 +127,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Review2/while_loop/more_exercise/dishwasher.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Review2/while_loop/more_exercise/average_number.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -155,7 +136,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="moving" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="numbers_divided_by_3_without_reminder" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Programming Basics" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -163,11 +144,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Review2/while_loop/exercise" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Review2/while_loop/more_exercise" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Review2/while_loop/exercise/moving.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Review2/while_loop/more_exercise/numbers_divided_by_3_without_reminder.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -197,21 +178,42 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="stream_of_letters" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Programming Basics" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Review2/while_loop/more_exercise" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Review2/while_loop/more_exercise/stream_of_letters.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <list>
       <item itemvalue="Python.Unnamed" />
-      <item itemvalue="Python.dishwasher" />
+      <item itemvalue="Python.average_number" />
+      <item itemvalue="Python.numbers_divided_by_3_without_reminder" />
+      <item itemvalue="Python.stream_of_letters" />
+      <item itemvalue="Python.дасда" />
       <item itemvalue="Python.report_system" />
-      <item itemvalue="Python.cake" />
-      <item itemvalue="Python.coins" />
-      <item itemvalue="Python.moving" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.average_number" />
+        <item itemvalue="Python.numbers_divided_by_3_without_reminder" />
+        <item itemvalue="Python.stream_of_letters" />
         <item itemvalue="Python.report_system" />
-        <item itemvalue="Python.dishwasher" />
-        <item itemvalue="Python.moving" />
-        <item itemvalue="Python.cake" />
-        <item itemvalue="Python.coins" />
+        <item itemvalue="Python.дасда" />
       </list>
     </recent_temporary>
   </component>
@@ -308,7 +310,14 @@
       <option name="project" value="LOCAL" />
       <updated>1682456183089</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Exercise12(1 out of 5)">
+      <created>1682704289524</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1682704289524</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -334,7 +343,8 @@
     <MESSAGE value="Exercise10" />
     <MESSAGE value="Exercise10-Continue(last one)" />
     <MESSAGE value="Exercise11" />
-    <option name="LAST_COMMIT_MESSAGE" value="Exercise11" />
+    <MESSAGE value="Exercise12(1 out of 5)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Exercise12(1 out of 5)" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -530,7 +540,12 @@
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/Review2/while_loop/more_exercise/report_system.py</url>
           <line>7</line>
-          <option name="timeStamp" value="53" />
+          <option name="timeStamp" value="55" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Review2/while_loop/more_exercise/stream_of_letters.py</url>
+          <line>5</line>
+          <option name="timeStamp" value="56" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
