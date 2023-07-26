@@ -4,12 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9bea8a9c-da00-4fbc-89e5-9d124a587090" name="Changes" comment="Exercise12(1 out of 5)">
-      <change afterPath="$PROJECT_DIR$/Review2/while_loop/more_exercise/average_number.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Review2/while_loop/more_exercise/numbers_divided_by_3_without_reminder.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Review2/while_loop/more_exercise/report_system.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Review2/while_loop/more_exercise/stream_of_letters.py" afterDir="false" />
+    <list default="true" id="9bea8a9c-da00-4fbc-89e5-9d124a587090" name="Changes" comment="Exercise12-Continue (2 to 5)">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Review2/while_loop/more_exercise/average_number.py" beforeDir="false" afterPath="$PROJECT_DIR$/Review2/while_loop/more_exercise/average_number.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,21 +55,29 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/SoftUni/Programming Basics&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "D:/SoftUni/Fundamentals/01.Basic Syntax, Conditional Statements and Loops",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+  },
+  "keyToStringList": {
+    "com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File": [
+      "JSON"
+    ]
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\SoftUni\Programming Basics\Review2\while_loop\more_exercise" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\SoftUni\Programming Basics\Review\05.While Loop\Lection" />
       <recent name="D:\SoftUni\Programming Basics\Review\04. For Loop\Lecture" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.average_number">
-    <configuration name="дасда" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.IIR_lab9">
+    <configuration name="IIR_lab9" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Programming Basics" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -84,7 +89,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Review2/while_loop/more_exercise/дасда.py" />
+      <option name="SCRIPT_NAME" value="D:\SoftUni\Programming Basics\Review2\while_loop\more_exercise\IIR_lab9.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -101,7 +106,6 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="D:\Programming Basics\Scripts\python.exe" />
-      <option name="SDK_NAME" value="Python 3.11 (Programming Basics)" />
       <option name="WORKING_DIRECTORY" value="" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
@@ -200,20 +204,20 @@
       <method v="2" />
     </configuration>
     <list>
+      <item itemvalue="Python.IIR_lab9" />
       <item itemvalue="Python.Unnamed" />
       <item itemvalue="Python.average_number" />
       <item itemvalue="Python.numbers_divided_by_3_without_reminder" />
-      <item itemvalue="Python.stream_of_letters" />
-      <item itemvalue="Python.дасда" />
       <item itemvalue="Python.report_system" />
+      <item itemvalue="Python.stream_of_letters" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.IIR_lab9" />
         <item itemvalue="Python.average_number" />
         <item itemvalue="Python.numbers_divided_by_3_without_reminder" />
         <item itemvalue="Python.stream_of_letters" />
         <item itemvalue="Python.report_system" />
-        <item itemvalue="Python.дасда" />
       </list>
     </recent_temporary>
   </component>
@@ -317,7 +321,14 @@
       <option name="project" value="LOCAL" />
       <updated>1682704289524</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Exercise12-Continue (2 to 5)">
+      <created>1682866218064</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1682866218064</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -344,7 +355,8 @@
     <MESSAGE value="Exercise10-Continue(last one)" />
     <MESSAGE value="Exercise11" />
     <MESSAGE value="Exercise12(1 out of 5)" />
-    <option name="LAST_COMMIT_MESSAGE" value="Exercise12(1 out of 5)" />
+    <MESSAGE value="Exercise12-Continue (2 to 5)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Exercise12-Continue (2 to 5)" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
